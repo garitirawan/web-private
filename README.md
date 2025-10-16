@@ -1,4 +1,3 @@
-[portfolio_index.html](https://github.com/user-attachments/files/22939585/portfolio_index.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
